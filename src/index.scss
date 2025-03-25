@@ -1,0 +1,12 @@
+@import "./resets";
+@import './variables';
+
+body{
+    background: $primary-color;
+    color: $text-color;
+    min-height: 100vh;  
+    padding-top: 2.5rem;
+    width: 100%;
+    overflow-x:scroll;
+  
+}
