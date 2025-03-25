@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/financeEdge/static/css/main.fbcb38c3.css",
+    "main.css": "/financeEdge/static/css/main.742032d1.css",
     "main.js": "/financeEdge/static/js/main.ad5b720b.js",
     "static/media/finan.png": "/financeEdge/static/media/finan.5dc2a0c0b816399b93f0.png",
     "index.html": "/financeEdge/index.html",
-    "main.fbcb38c3.css.map": "/financeEdge/static/css/main.fbcb38c3.css.map",
+    "main.742032d1.css.map": "/financeEdge/static/css/main.742032d1.css.map",
     "main.ad5b720b.js.map": "/financeEdge/static/js/main.ad5b720b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbcb38c3.css",
+    "static/css/main.742032d1.css",
     "static/js/main.ad5b720b.js"
   ]
 }
