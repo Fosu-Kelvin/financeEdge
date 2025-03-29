@@ -10,6 +10,7 @@ section.container_1{
     @include  flexCenter(column);
     margin: 0 auto;
     width: 90%;
+    z-index: 1;
     
 }
 
